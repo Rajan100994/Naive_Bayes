@@ -10,7 +10,7 @@ How To Compile:
 javac PreProcessor.java
 
 
-How to run:
+How to run : 
 java NaiveBayes /Users/rajan/Desktop/news/news_items/train /Users/rajan/Desktop/news/news_items/test
 
 Accuracy : 
